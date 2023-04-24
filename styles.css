@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	flex-flow: row wrap;
+	justify-content:space-between;
+}
+.green{
+	background-color:green;
+	height:130px;
+	width:15%;
+	margin:2px;
+	font-size:50px;
+}
+.red{
+	background-color:red;
+	height:130px;
+	width:15%;
+	margin:2px;
+	font-size:50px;
+}
+.blue{
+	background-color:blue;
+	height:130px;
+	width:15%;
+	margin:2px;
+	font-size:50px;
+}
